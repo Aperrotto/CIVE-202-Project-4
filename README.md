@@ -45,13 +45,21 @@ The results will provide insight into how risk is distributed across communities
 * Apply to datasets
 * Analysis new risk
 
-### 5. Sensitivity Analysis and Comparison
-
+### 5. Sensitivity Analysis and 
+*preform sensitivity analysis and compare risk scores
+* Use the groupby() and agg() functions in pandas
+* examine changes in risk classification
 
 ### 6. Visualization and Mapping
+* Bar charts
+* Maps for each state for each scores
 
 ### 7. Documentation and Reporting
-
+* ACD
+* Written report
+* discussion of comparisons
+* Github
+  
 ## Methods
 
 ## Results and Analysis
