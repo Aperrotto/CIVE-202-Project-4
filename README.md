@@ -11,16 +11,35 @@
 - [Texas.csv](Texas.csv)
 ---
 ## Overview
+Risk Averse, LLC hired us to examine where bias may exist in the NRI scoring methodology by doing sensitivity analysis. Risk Averse, LLC, wants to compare the current risk levels determined using the NRI method and data to an independent consultant’s definition of risk. For this project, we analyzed NRI data at the Census Tract level for Texas and Colorado and evaluate whether FEMA’s risk methodology introduces bias against socially vulnerable communities. Specific hazards examined include lightning and winter weather in Colorado, and heat waves and tornadoes in Texas. In addition, this project will develop an alternative risk model that places greater emphasis on social vulnerability and compare it with the existing NRI framework using the following formula:
+
+Risk Score = (Expected Annual Loss × 0.40) + (Social Vulnerability × 0.45) + ((1 − Community Resilience) × 0.15)
+
+The results will provide insight into how risk is distributed across communities and how different definitions of risk may influence decision making and resource allocation. The goal of this project is to analyze and evaluate natural disaster risk using publicly available NRI data and assess potential bias in FEMA’s methodology. The client has requested the following analyses:
+
+1. Analyze risk at the Census Tract level for any two states, Texas and Colorado, focusing on lightning and winter weather in Colorado and heat waves and tornadoes in Texas.
+
+2. Explain how FEMA defines and calculates risk using Expected Annual Loss, Social Vulnerability, and Community Resilience.
+
+3. Develop an alternative risk formula that places greater emphasis on social vulnerability and compare it with FEMA’s model at the county level for each selected hazard.
+
+4. Identify potential bias in risk classification and discuss its implications for affected communities.
 
 ## Project Tasks: 
 
-### 1. Define Risk
+### 1. Data Acquisition and Preparation
 
-### 2. Analysis Risk for 2 states
+### 2. Understanding and explaining the NRI Model
 
-### 3. Compare data and find bias
+### 3. Data Analysis and Summary Statistics
 
-### 4. Generate a Map and summary tables
+### 4. Development of Alternative Risk Model
+
+### 5. Sensitivity Analysis and Comparison
+
+### 6. Visualization and Mapping
+
+### 7. Documentation and Reporting
 
 ## Methods
 
