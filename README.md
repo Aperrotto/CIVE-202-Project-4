@@ -1,8 +1,8 @@
 # CIVE-202-Project-4
 ---
 ## This includes files for Project no. 2:
-- [Gantt Chart](CIVE%20202%20Projec%204%20Gantt%20Chart.pdf)
-- [Timesheet](CIVE%20202%20Project%204%20Timesheet.pdf)
+- [Gantt Chart](CIVE_202_Project_4_Gantt_Chart.pdf)
+- [Timesheet](CIVE_202_Project_4_Timesheet.pdf)
 - [Scope of Work](CIVE202_Spring2026_Group151-05_Project4_SOW.docx)
 - [Annotated Code Document](CIVE202_Spring2026_Group151-05_Project4_ACD.docx)
 - [Written Report](CIVE202_Spring2026_Group151-05_Project4_WrittenReport.docx)
