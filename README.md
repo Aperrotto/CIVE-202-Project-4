@@ -24,18 +24,29 @@ The results will provide insight into how risk is distributed across communities
 3. Develop an alternative risk formula that places greater emphasis on social vulnerability and compare it with FEMA’s model at the county level for each selected hazard.
 
 4. Identify potential bias in risk classification and discuss its implications for affected communities.
-
+---
 ## Project Tasks: 
 
 ### 1. Data Acquisition and Preparation
+* NRI and SVI data cleaned
+* select relevant vairables and merge state data
 
 ### 2. Understanding and explaining the NRI Model
+* Review FEMA documentation
+* Analysis factors of risk score
 
-### 3. Data Analysis and Summary Statistics
+### 3. Data Analysis and Summarie Statistics
+* analysis datasets for states
+* Find mean, median, min, max
+* Identify trends and differences in risk distribution
 
 ### 4. Development of Alternative Risk Model
+* Define Risk
+* Apply to datasets
+* Analysis new risk
 
 ### 5. Sensitivity Analysis and Comparison
+
 
 ### 6. Visualization and Mapping
 
